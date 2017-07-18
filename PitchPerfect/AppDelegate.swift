@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  PitchPerfect
+//  learning
 //
-//  Created by Ahmed Elgendy on 18/07/2017.
-//  Copyright © 2017 Viantex Bilişim. All rights reserved.
+//  Created by Ahmed Elgendy on 13/04/2017.
+//  Copyright © 2017 Ahmed Elgendy. All rights reserved.
 //
 
 import UIKit
@@ -16,6 +16,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        print("I am readdyyyyy")
         return true
     }
 
